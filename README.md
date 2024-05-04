@@ -28,11 +28,29 @@ Consider donating. Thank you!
 [![](https://img.shields.io/powershellgallery/dt/ImportExcel.svg)](https://www.powershellgallery.com/packages/ImportExcel)
 <a href="https://www.paypal.com/paypalme/DougCharlesFinke"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate"></a>
 
+# Table of Contents:
+1. [Overview](#overview)
+   - [Examples](#examples)
+2. [Basic Usage](#basic-usage)
+   - [Installation](#installation)
+   - [Create a spreadsheet](#create-a-spreadsheet)
+   - [Read a spreadsheet](#read-a-spreadsheet)
+   - [Add a chart to spreadsheet](#add-a-chart-to-spreadsheet)
+   - [Add a pivot table to spreadsheet](#add-a-pivot-table-to-spreadsheet)
+3. [Convert Excel data to other formats](#convert-excel-data-to-other-formats)
+   - [Create a separate CSV file for each Excel sheet](#create-a-separate-csv-file-for-each-excel-sheet)
+4. [Additional Resources](#additional-resources)
+   - [Videos](#videos)
+   - [More Videos](#more-videos)
+   - [Articles](#articles)
+   - [Contributing](#contributing)
+  
+
 # Overview
 
 Automate Excel with PowerShell without having Excel installed. Works on Windows, Linux and Mac. Creating Tables, Pivot Tables, Charts and much more just got a lot easier.
 
-## Examples ✨
+## Examples
 Check out the [more than 100 examples](Examples/) on ways to create amazing reports as well as make you more productive with PowerShell and Excel.
 
 # Basic Usage
